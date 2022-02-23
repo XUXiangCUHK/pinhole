@@ -1,0 +1,13 @@
+{
+    "model_name":"frontpage_event_static_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+        },
+        "output":{
+            "event_info":"list"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "model_name":"search_melon_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "key_words":"list"
+        },
+        "output":{
+            "event_list":"list"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "model_name":"compare_timeline_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int",
+            "cut_time":"str"
+        },
+        "output":{
+            "agglo_timeline":"list",
+            "news_pool":"dict",
+            "arena_timeline":"list"
+        }
+    }
+}

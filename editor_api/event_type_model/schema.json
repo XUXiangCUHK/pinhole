@@ -1,0 +1,18 @@
+{
+    "model_name":"event_type_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int",
+            "abstract_title":"str",
+            "pic_url":"str",
+            "event_type":"int",
+            "direction_guide":"str"
+        },
+        "output":{
+            "status":"str"
+        }
+    }
+}

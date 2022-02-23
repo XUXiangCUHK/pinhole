@@ -1,0 +1,13 @@
+{
+    "model_name":"frontpage_special_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+        },
+        "output":{
+            "special_info":"list"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "model_name":"edit_vote_question_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int",
+            "question_name":"str",
+            "pos_name":"str",
+            "neg_name":"str"
+        },
+        "output":{
+            "status":"str"
+        }
+    }
+}

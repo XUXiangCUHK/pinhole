@@ -1,0 +1,14 @@
+{
+    "model_name":"highlight_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "text":"str"
+        },
+        "output":{
+            "highlight":"str"
+        }
+    }
+}

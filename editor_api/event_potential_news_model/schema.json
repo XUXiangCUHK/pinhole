@@ -1,0 +1,15 @@
+{
+    "model_name":"event_potential_news_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int",
+            "page":"int"
+        },
+        "output":{
+            "filtered_news":"list"
+        }
+    }
+}

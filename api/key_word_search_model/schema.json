@@ -1,0 +1,14 @@
+{
+    "model_name":"key_word_search_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "key_word":"list"
+        },
+        "output":{
+            "event_info":"list"
+        }
+    }
+}

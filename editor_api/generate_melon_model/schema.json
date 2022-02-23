@@ -1,0 +1,20 @@
+{
+    "model_name":"generate_melon_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "key_words":"list",
+            "operator":"str",
+            "minimum_should_match":"int",
+            "only_title":"bool",
+            "start_time":"int",
+            "end_time":"int",
+            "mode": "str"
+        },
+        "output":{
+            "event_id":"int"
+        }
+    }
+}

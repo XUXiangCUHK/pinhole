@@ -1,0 +1,18 @@
+{
+    "model_name":"edit_news_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "content_id":"str",
+            "title":"str",
+            "short_abstract":"str",
+            "abstract":"str",
+            "highlight":"str"
+        },
+        "output":{
+            "status":"str"
+        }
+    }
+}

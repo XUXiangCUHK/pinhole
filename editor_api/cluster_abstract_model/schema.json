@@ -1,0 +1,14 @@
+{
+    "model_name":"cluster_abstract_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "content_id_list":"list"
+        },
+        "output":{
+            "cluster_abstract":"str"
+        }
+    }
+}

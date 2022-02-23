@@ -1,0 +1,17 @@
+{
+    "model_name":"baidu_abstract_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "content_id":"str",
+            "abstract_len":"int"
+        },
+        "output":{
+            "baidu_abstract":"str"
+        }
+    }
+}
+
+

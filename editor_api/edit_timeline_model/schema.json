@@ -1,0 +1,16 @@
+{
+    "model_name":"edit_timeline_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id": "int",
+            "content_id":"str",
+            "mode":"str"
+        },
+        "output":{
+            "status":"str"
+        }
+    }
+}

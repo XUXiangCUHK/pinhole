@@ -1,0 +1,17 @@
+{
+    "model_name":"news_abstract_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "content_id":"str"
+        },
+        "output":{
+            "first_three_sent":"str",
+            "abstract":"str",
+            "short_baidu_abstract":"str",
+            "long_baidu_abstract":"str"
+        }
+    }
+}

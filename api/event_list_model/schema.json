@@ -1,0 +1,13 @@
+{
+    "model_name":"event_list_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+        },
+        "output":{
+            "important_event":"list"
+        }
+    }
+}

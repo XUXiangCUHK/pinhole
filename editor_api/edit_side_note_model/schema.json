@@ -1,0 +1,19 @@
+{
+    "model_name":"edit_side_note_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int",
+            "content_id":"str",
+            "note_title":"str",
+            "note_url":"str",
+            "note_text":"str",
+            "text_type":"int"
+        },
+        "output":{
+            "status":"str"
+        }
+    }
+}

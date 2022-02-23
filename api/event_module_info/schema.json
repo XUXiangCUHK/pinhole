@@ -1,0 +1,14 @@
+{
+    "model_name":"event_module_info_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "event_id":"int"
+        },
+        "output":{
+            "event_module_info":"collections.OrderedDict"
+        }
+    }
+}

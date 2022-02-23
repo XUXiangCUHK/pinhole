@@ -1,0 +1,16 @@
+{
+    "model_name":"frontpage_side_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+        },
+        "output":{
+            "user_like":"list",
+            "latest_express":"list",
+            "hot_news":"list",
+            "recommand_event":"list"
+        }
+    }
+}

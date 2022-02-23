@@ -1,0 +1,14 @@
+{
+    "model_name":"frontpage_search_model",
+    "model_version":"1.0",
+    "attribute":{
+        "persist":{
+        },
+        "input":{
+            "key_words":"list"
+        },
+        "output":{
+            "search_result":"list"
+        }
+    }
+}
